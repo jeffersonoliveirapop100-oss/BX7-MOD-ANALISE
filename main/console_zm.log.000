@@ -1,0 +1,539 @@
+Build r5369
+logfile opened on Mon Oct 26 17:30:32 2026
+
+Searching for files required to download mod: "" map: ""
+no files required for mod download.
+Current language: english
+Current search path:
+C:\Users\User\AppData\Local\Plutonium\storage\t6/raw
+C:\Users\User\AppData\Local\Plutonium\storage\t6//
+C:\Users\User\AppData\Local\Plutonium\storage\t6/players
+C:\Users\User\AppData\Local\Plutonium\storage\t6/main
+C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game/main
+C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game/main_shared
+C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game/players
+execing default_mp.cfg
+execing default_statversion.cfg
+completed execing default_statversion.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+completed execing default_mp.cfg
+execing plutonium_zm.cfg
+con_gameMsgWindow0Filter will be changed upon restarting.
+con_gameMsgWindow1Filter will be changed upon restarting.
+con_gameMsgWindow2Filter will be changed upon restarting.
+con_gameMsgWindow3Filter will be changed upon restarting.
+g_redCrosshairs will be changed upon restarting.
+loc_forceEnglish will be changed upon restarting.
+r_aaSamples will be changed upon restarting.
+r_aspectRatio will be changed upon restarting.
+r_customMode will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_ignorehwgamma will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+completed execing plutonium_zm.cfg
+execing default_mp_controls_english.cfg
+completed execing default_mp_controls_english.cfg
+ai_corpseCount is cheat protected
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+execing ragdoll.cfg
+completed execing ragdoll.cfg
+'0' is not a valid value for dvar 'r_brightness'
+  Domain is any number from 0.5 to 1.5
+Loading fastfile patch_zm
+Loading fastfile plutonium_zm
+Loading fastfile en_patch_zm
+Loading fastfile en_plutonium_zm
+Loading fastfile code_post_gfx_zm
+Loading fastfile en_code_post_gfx_zm
+Attempting to load soundbank zmb_patch.all
+Soundbank zmb_patch.all has stream asset bank zmb_patch.all.sabs
+Soundbank zmb_patch.all has load asset bank zmb_patch.all.sabl
+Zone patch_zm is trying to find ipak patch_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: patch_zm
+Zone patch_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: base
+Zone patch_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: zm
+Zone patch_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+Added ipak file: en_base
+Zone patch_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone patch_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone patch_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: code_post_gfx_zm
+Zone patch_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: code_post_gfx_zm
+Zone patch_zm is trying to find ipak common_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: common_zm
+Zone patch_zm is trying to find ipak common_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: common_zm
+Zone patch_zm is trying to find ipak patch_all in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: patch_all
+Zone patch_zm is trying to find ipak patch_all in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: patch_all
+Zone patch_zm is trying to find ipak patch_loc_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: patch_loc_zm
+Zone patch_zm is trying to find ipak patch_loc_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: patch_loc_zm
+Zone plutonium_zm is trying to find ipak mp in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: mp
+Attempting to load soundbank zmb_patch.english
+Soundbank zmb_patch.english has no asset bank
+Attempting to load soundbank cmn_root.all
+Soundbank cmn_root.all has stream asset bank cmn_root.all.sabs
+Soundbank cmn_root.all has load asset bank cmn_root.all.sabl
+Attempting to load soundbank zmb_code_post_gfx.all
+Soundbank zmb_code_post_gfx.all has stream asset bank zmb_code_post_gfx.all.sabs
+Zone code_post_gfx_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: code_post_gfx_zm
+Zone code_post_gfx_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: code_post_gfx_zm
+Zone code_post_gfx_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone code_post_gfx_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone code_post_gfx_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone code_post_gfx_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone code_post_gfx_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Attempting to load soundbank cmn_root.english
+Soundbank cmn_root.english has stream asset bank cmn_root.english.sabs
+Attempting to load soundbank zmb_code_post_gfx.english
+Soundbank zmb_code_post_gfx.english has no asset bank
+Built adjacency info for IPaks 9ms
+Could not load image "streaming_temp_image_0".
+Could not load image "streaming_temp_image_1".
+Could not load image "streaming_temp_image_2".
+Could not load image "streaming_temp_image_3".
+Could not load image "streaming_temp_image_4".
+Could not load image "streaming_temp_image_5".
+Could not load image "streaming_temp_image_6".
+Could not load image "streaming_temp_image_7".
+Could not load image "streaming_temp_image_8".
+Could not load image "streaming_temp_image_9".
+Could not load image "streaming_temp_image_10".
+Could not load image "streaming_temp_image_11".
+Could not load image "streaming_temp_image_12".
+Could not load image "streaming_temp_image_13".
+Could not load image "streaming_temp_image_14".
+Could not load image "streaming_temp_image_15".
+Could not load image "streaming_temp_image_16".
+Could not load image "streaming_temp_image_17".
+Could not load image "streaming_temp_image_18".
+Could not load image "streaming_temp_image_19".
+Could not load image "streaming_temp_image_20".
+Could not load image "streaming_temp_image_21".
+Could not load image "streaming_temp_image_22".
+Could not load image "streaming_temp_image_23".
+Could not load image "streaming_temp_image_24".
+Could not load image "streaming_temp_image_25".
+Could not load image "streaming_temp_image_26".
+Could not load image "streaming_temp_image_27".
+Could not load image "streaming_temp_image_28".
+Could not load image "streaming_temp_image_29".
+Could not load image "streaming_temp_image_30".
+Could not load image "streaming_temp_image_31".
+Could not load image "$lineargray".
+Could not load image "$blacktransparent".
+Could not load material "debug_sphere_exterior".
+Could not load material "debug_sphere_interior".
+Could not load material "$floatz_donotremove".
+Could not load material "$processed_floatz_donotremove".
+Could not load material "$ps3_aadownsample_donotremove".
+Could not load material "zombie_darkness".
+Could not load material "mc/rope".
+Could not load material "bloom_apply_thermal".
+Could not load material "$ps3_reload_zcull_donotremove".
+Could not load material "mc/mtl_predator".
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_patch.all.sabs : 3b6fe89eaf4a833802a6a7c4edcb7d3b
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_patch.all.sabl : 2d8d1e8c7bd852746351d0ee6b4b4f52
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\cmn_root.all.sabs : 8f009a81af5a463f5f59e7436df20956
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\cmn_root.all.sabl : d6970e932b2bef5b4ded5948bcdc31fe
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_code_post_gfx.all.sabs : 96e90661591e9b621437c8f369cda49c
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\cmn_root.english.sabs : 928a30a77986e6193280316d5abbd430
+Could not load stringtable "mp/gunlevels.csv".
+Could not load stringtable "mp/unlockmapping.csv".
+execing default_720p.cfg
+completed execing default_720p.cfg
+execing default_zm_gamesettings.cfg
+execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_tdm.cfg
+completed execing zm/gamesettings_tdm.cfg
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+cg_drawCrosshair is cheat protected
+cg_drawCrosshairNames is cheat protected
+revive_time_taken is cheat protected
+execing default_mp_gametypes.cfg
+Unknown command "resetCustomGametype"
+completed execing default_mp_gametypes.cfg
+completed execing default_mp_gamesettings.cfg
+execing zm/gamesettings_default.cfg
+completed execing zm/gamesettings_default.cfg
+execing zm/gamesettings_zclassic.cfg
+completed execing zm/gamesettings_zclassic.cfg
+completed execing default_zm_gamesettings.cfg
+bound socket to localhost:4976
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing buttons_default.cfg
+completed execing buttons_default.cfg
+execing thumbstick_default.cfg
+completed execing thumbstick_default.cfg
+Could not load stringtable "mp/emblemSwatchColors.csv".
+execing mp/default_emblems.cfg
+completed execing mp/default_emblems.cfg
+PMem_Init: Allocated 0x30000000 bytes at 0x1F5F0000
+--- Common Initialization Complete ---
+Unknown command "t6zm"
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+Could not load material "lui_leftshadow".
+Could not load material "lui_rightshadow".
+Could not load material "lui_topshadow".
+Could not load material "lui_bottomshadow".
+Could not load material "zm_hud_icon_battery".
+Could not load material "zm_hud_icon_dolly".
+Could not load material "zm_hud_icon_cardoor".
+Could not load material "zm_hud_icon_arm".
+Could not load material "zm_hud_icon_panel".
+Could not load material "zm_hud_icon_lever".
+Could not load material "zm_hud_icon_papbody".
+Could not load material "zm_hud_icon_chairleg".
+Could not load material "zm_hud_icon_fan".
+Could not load material "zm_hud_icon_rudder".
+Could not load material "zm_hud_icon_mannequin".
+Could not load material "zm_hud_icon_turrethead".
+Could not load material "zm_hud_icon_lawnmower".
+Could not load material "zm_hud_icon_ammobox".
+Could not load material "zm_hud_icon_coil".
+Could not load material "zm_hud_icon_tvtube".
+Could not load material "zm_hud_icon_jetgun_wires".
+Could not load material "zm_hud_icon_jetgun_engine".
+Could not load material "zm_hud_icon_jetgun_gauges".
+Could not load material "zm_hud_icon_jetgun_handles".
+Could not load material "zm_hud_icon_plow".
+Could not load material "zm_hud_icon_hatch".
+Could not load material "zm_hud_icon_ladder".
+Could not load material "zm_hud_icon_sq_powerbox".
+Could not load material "zm_hud_icon_sq_meteor".
+Could not load material "zm_hud_icon_sq_scafold".
+Could not load material "zm_hud_icon_sq_tranceiver".
+Could not load material "zom_hud_trample_steam_screen".
+Could not load material "zom_hud_trample_steam_bellow".
+Could not load material "zom_hud_trample_steam_compressor".
+Could not load material "zom_hud_trample_steam_whistle".
+Could not load material "zom_hud_icon_buildable_slip_ext".
+Could not load material "zom_hud_icon_buildable_slip_cooker".
+Could not load material "zom_hud_icon_buildable_slip_foot".
+Could not load material "zom_hud_icon_buildable_slip_handle".
+Could not load material "zom_hud_icon_epod_key".
+Could not load material "zom_hud_icon_buildable_woof_speaker".
+Could not load material "zom_hud_icon_buildable_woof_motor".
+Could not load material "zom_hud_icon_buildable_woof_frame".
+Could not load material "zom_hud_icon_buildable_woof_chains".
+Could not load material "zom_hud_icon_buildable_chop_a".
+Could not load material "zom_hud_icon_buildable_chop_b".
+Could not load material "zom_hud_icon_buildable_chop_c".
+Could not load material "zom_hud_icon_buildable_chop_d".
+Could not load material "zom_hud_icon_buildable_sloth_booze".
+Could not load material "zom_hud_icon_buildable_sloth_candy".
+Could not load material "zom_hud_icon_buildable_sloth_key".
+Could not load material "zom_hud_icon_buildable_weap_chalk".
+Could not load material "zom_hud_icon_buildable_gen_lamp".
+Could not load material "zom_hud_icon_buildable_tower_vacuum".
+Could not load material "zom_hud_icon_buildable_tower_crystal".
+Could not load material "zom_hud_icon_buildable_tower_satellite".
+Could not load material "zom_hud_icon_buildable_tower_antenna".
+Could not load material "zm_hud_icon_spool".
+Could not load material "zm_hud_icon_sq_keycard".
+Could not load material "hud_dpad_blood".
+Could not load material "hud_lui_dpad_circle".
+Could not load material "hud_lui_arrow_global".
+Could not load material "hud_dpad_xenon".
+Could not load material "specialty_additionalprimaryweapon_zombies".
+Could not load material "specialty_ads_zombies".
+Could not load material "specialty_divetonuke_zombies".
+Could not load material "specialty_doubletap_zombies".
+Could not load material "specialty_juggernaut_zombies".
+Could not load material "specialty_marathon_zombies".
+Could not load material "specialty_quickrevive_zombies".
+Could not load material "specialty_fastreload_zombies".
+Could not load material "specialty_tombstone_zombies".
+Could not load material "specialty_chugabud_zombies".
+Could not load material "specialty_electric_cherry_zombie".
+Could not load material "specialty_vulture_zombies".
+Could not load material "zm_hud_stink_perk_glow".
+Could not load material "specialty_instakill_zombies".
+Could not load material "specialty_doublepoints_zombies".
+Could not load material "specialty_doublepoints_zombies_blue".
+Could not load material "specialty_firesale_zombies".
+Could not load material "zom_icon_bonfire".
+Could not load material "zom_icon_minigun".
+Could not load material "specialty_zomblood_zombies".
+Loading fastfile patch_ui_zm
+Loading fastfile en_ui_zm
+Loading fastfile ui_zm
+Attempting to load soundbank zmb_patch_ui.all
+Soundbank zmb_patch_ui.all has stream asset bank zmb_patch_ui.all.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_patch_ui.all.sabs : 044e644e671cd6ea3cdbe1d5bc374344
+Zone ui_zm is trying to find ipak ui_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: ui_zm
+Zone ui_zm is trying to find ipak ui_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: ui_zm
+Zone ui_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone ui_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone ui_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone ui_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone ui_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone ui_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: code_post_gfx_zm
+Zone ui_zm is trying to find ipak code_post_gfx_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: code_post_gfx_zm
+Zone ui_zm is trying to find ipak common_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: common_zm
+Zone ui_zm is trying to find ipak common_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: common_zm
+Built adjacency info for IPaks 10ms
+Waited 291 msec for missing asset "maps/mp/gametypes_zm/zcontainment.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zcontainment.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zrace.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zdeadpool.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zmeat.txt".
+Could not load rawfile "maps/mp/gametypes_zm/znml.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zturned.txt".
+Could not load rawfile "maps/mp/gametypes_zm/zpitted.txt".
+Bound DW addr to 192.168.18.51:3074
+Bound DW port to 3074
+Loading fastfile ffotd_tu17_zm_147
+Built adjacency info for IPaks 10ms
+execing zm/ffotd_settings.cfg
+Unknown command "maxNumAvatarOffers"
+execing dvar_defaults.cfg
+cg_hudGrenadeIconMaxRangeFrag is cheat protected
+ragdoll_explode_force is cheat protected
+ragdoll_explode_upbias is cheat protected
+jump_height is cheat protected
+jump_slowdownEnable is cheat protected
+bg_fallDamageMinHeight is cheat protected
+bg_fallDamageMaxHeight is cheat protected
+completed execing dvar_defaults.cfg
+execing blackbox.cfg
+Unknown command "bbdisable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+Unknown command "bbenable"
+completed execing blackbox.cfg
+completed execing zm/ffotd_settings.cfg
+Loading fastfile common_zm
+Loading fastfile en_common_zm
+Attempting to load soundbank zmb_common.all
+Soundbank zmb_common.all has stream asset bank zmb_common.all.sabs
+Soundbank zmb_common.all has load asset bank zmb_common.all.sabl
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_common.all.sabs : 827b79a2bc098651b6f4721d95290178
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_common.all.sabl : 1a92e9207873f3a37a1183a4eb187f01
+Attempting to load soundbank zmb_common.english
+Soundbank zmb_common.english has stream asset bank zmb_common.english.sabs
+Soundbank zmb_common.english has load asset bank zmb_common.english.sabl
+Built adjacency info for IPaks 10ms
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_common.english.sabs : dced37a1eda41a462f5d6b26128627fe
+Loading fastfile dlc0_load_zm
+Loading fastfile dlczm0_load_zm
+Loading fastfile dlc1_load_zm
+Loading fastfile dlc2_load_zm
+Loading fastfile dlc3_load_zm
+Loading fastfile dlc4_load_zm
+Loading fastfile dlc0dd_load_zm
+Loading fastfile seasonpass_load_zm
+Loading fastfile en_dlc0_load_zm
+Loading fastfile en_dlczm0_load_zm
+Loading fastfile en_dlc1_load_zm
+Loading fastfile en_dlc2_load_zm
+Loading fastfile en_dlc3_load_zm
+Loading fastfile en_dlc4_load_zm
+Loading fastfile en_dlc0dd_load_zm
+Loading fastfile en_seasonpass_load_zm
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_common.english.sabl : 55b08aa62808135cc85563ddcf0027b2
+Attempting to load soundbank zmb_nuked_real_intro.all
+Soundbank zmb_nuked_real_intro.all has stream asset bank zmb_nuked_real_intro.all.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_nuked_real_intro.all.sabs : 72e3f90fcf17c0379c6ac03a9eef3bd2
+Zone dlczm0_load_zm is trying to find ipak dlczm0_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm0_load_zm
+Zone dlczm0_load_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone dlczm0_load_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone dlczm0_load_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone dlczm0_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone dlczm0_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone dlczm0_load_zm is trying to find ipak dlczm0 in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm0
+Attempting to load soundbank zmb_rt_load.all
+Soundbank zmb_rt_load.all has stream asset bank zmb_rt_load.all.sabs
+Zone dlc1_load_zm is trying to find ipak dlc1_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: dlc1_load_zm
+Zone dlc1_load_zm is trying to find ipak dlc1_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: dlc1_load_zm
+Zone dlc1_load_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone dlc1_load_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone dlc1_load_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone dlc1_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone dlc1_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone dlc1_load_zm is trying to find ipak dlczm1 in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm1
+Attempting to load soundbank zmb_alcatraz_load.all
+Soundbank zmb_alcatraz_load.all has stream asset bank zmb_alcatraz_load.all.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_rt_load.all.sabs : 0931bb26a99853ccc1cd5d21b8a6a262
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_alcatraz_load.all.sabs : 9b103e7e7a54a08d0d6707db739fc983
+Zone dlc2_load_zm is trying to find ipak dlc2_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: dlc2_load_zm
+Zone dlc2_load_zm is trying to find ipak dlc2_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: dlc2_load_zm
+Zone dlc2_load_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone dlc2_load_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone dlc2_load_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone dlc2_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone dlc2_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone dlc2_load_zm is trying to find ipak dlczm2 in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm2
+Attempting to load soundbank zmb_buried_load.all
+Soundbank zmb_buried_load.all has stream asset bank zmb_buried_load.all.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_buried_load.all.sabs : e9886412821a5af7a998d020d7e893c6
+Zone dlc3_load_zm is trying to find ipak dlc3_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: dlc3_load_zm
+Zone dlc3_load_zm is trying to find ipak dlc3_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: dlc3_load_zm
+Zone dlc3_load_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone dlc3_load_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone dlc3_load_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone dlc3_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone dlc3_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone dlc3_load_zm is trying to find ipak dlczm3 in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm3
+Attempting to load soundbank zmb_tomb_load.all
+Soundbank zmb_tomb_load.all has stream asset bank zmb_tomb_load.all.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_tomb_load.all.sabs : 0abbe6d69f51da808bfd32da472e5295
+Zone dlc4_load_zm is trying to find ipak dlc4_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: dlc4_load_zm
+Zone dlc4_load_zm is trying to find ipak dlc4_load_zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: dlc4_load_zm
+Zone dlc4_load_zm is trying to find ipak base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak base already loaded
+Zone dlc4_load_zm is trying to find ipak zm in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak zm already loaded
+Zone dlc4_load_zm is trying to find ipak en_base in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak en_base already loaded
+Zone dlc4_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+ipak file not found: lowmip
+Zone dlc4_load_zm is trying to find ipak lowmip in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\english\
+ipak file not found: lowmip
+Zone dlc4_load_zm is trying to find ipak dlczm4 in C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\zone\all\
+Added ipak file: dlczm4
+Attempting to load soundbank zmb_rt_load.english
+Soundbank zmb_rt_load.english has stream asset bank zmb_rt_load.english.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_rt_load.english.sabs : 524b04b6860f703870e5aab3e5c1b939
+Attempting to load soundbank zmb_alcatraz_load.english
+Soundbank zmb_alcatraz_load.english has stream asset bank zmb_alcatraz_load.english.sabs
+Attempting to load soundbank zmb_buried_load.english
+Soundbank zmb_buried_load.english has stream asset bank zmb_buried_load.english.sabs
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_alcatraz_load.english.sabs : 07df5e998e4363921196adc4a3f771e5
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_buried_load.english.sabs : 3aca5a93e2aaeabdab8db1ddca66fc48
+Attempting to load soundbank zmb_tomb_load.english
+Soundbank zmb_tomb_load.english has stream asset bank zmb_tomb_load.english.sabs
+Built adjacency info for IPaks 22ms
+SOUND Header load success for C:\Users\User\Documents\pluto_t6_full_game\pluto_t6_full_game\sound\zmb_tomb_load.english.sabs : 0e467100441a6430a5b96df29f8b62ac
+ai_corpseCount is cheat protected
+r_aaSamples will be changed upon restarting.
+r_fullscreen will be changed upon restarting.
+r_mode will be changed upon restarting.
+r_monitor will be changed upon restarting.
+r_texFilterQuality will be changed upon restarting.
+Unknown command "session_rejoinsession"
+DB_FlushGump 0
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 1
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 2
+Sys_GumpFlushed set gumpFlushedEvent
+DB_FlushGump 3
+Sys_GumpFlushed set gumpFlushedEvent
+SV_Shutdown: EXE_SERVERQUIT
+Unloading fastfile en_dlc4_load_zm
+Unloading fastfile en_dlc3_load_zm
+Unloading fastfile en_dlc2_load_zm
+Unloading fastfile en_dlc1_load_zm
+Unloading fastfile dlc4_load_zm
+Unloading ipak dlczm4
+Unloading fastfile dlc3_load_zm
+Unloading ipak dlczm3
+Unloading fastfile dlc2_load_zm
+Unloading ipak dlczm2
+Unloading fastfile dlc1_load_zm
+Unloading ipak dlczm1
+Unloading fastfile dlczm0_load_zm
+Unloading ipak dlczm0_load_zm
+Unloading ipak dlczm0
+Unloading fastfile en_common_zm
+Unloading fastfile common_zm
+Unloading fastfile ffotd_tu17_zm_147
+Unloading fastfile ui_zm
+Unloading fastfile en_ui_zm
+Unloading fastfile patch_ui_zm
+Unloading fastfile en_code_post_gfx_zm
+Unloading fastfile code_post_gfx_zm
+Unloading fastfile en_plutonium_zm
+Unloading fastfile en_patch_zm
+Unloading fastfile plutonium_zm
+Unloading ipak mp
+Unloading fastfile patch_zm
+Unloading ipak patch_zm
+Unloading ipak base
+Unloading fastfile code_pre_gfx_zm
